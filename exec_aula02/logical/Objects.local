@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="B1C66E95-D0AF-A480-89C7-07309B408834" name="COMANDA" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="382885A9-4D18-0C8E-03FF-413D84B288A0" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="060D42E0-7D66-6C4D-F8E3-FE98CD5E2F45" name="Produto" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="382885A9-4D18-0C8E-03FF-413D84B288A0" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>
